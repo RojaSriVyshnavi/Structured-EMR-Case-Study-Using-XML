@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Structured EMR XML Case</title>
+  <style>
+    body {
+      font-family: monospace;
+      padding: 20px;
+      background-color: #f8f8f8;
+      color: #333;
+    }
+    pre {
+      background: #fff;
+      padding: 15px;
+      border: 1px solid #ccc;
+      overflow-x: auto;
+    }
+  </style>
+</head>
+<body>
+  <h1>Structured EMR Case Study – XML View</h1>
+  <pre id="xmlContent">Loading XML...</pre>
+
+  <script>
+    fetch('emr_mandibular_fracture.xml')
+      .then(response => response.text())
+      .then(data => {
+        document.getElementById('xmlContent').textContent = data;
+      })
+      .catch(error => {
+        document.getElementById('xmlContent').textContent = "Failed to load XML file.";
+        console.error(error);
+      });
+  </script>
+</body>
+</html>

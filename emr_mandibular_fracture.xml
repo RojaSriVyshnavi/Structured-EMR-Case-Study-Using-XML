@@ -1,0 +1,111 @@
+<EMR>
+  <Introduction>
+    <MandibularFractures>
+      <Overview>
+        Mandibular fractures are the most common fracture of the face, accounting for about 15.5-59% of all maxillofacial fractures. Among mandibular fractures, the most commonly encountered fracture is condylar fracture.
+      </Overview>
+      <Factors>
+        <StressDistribution>
+          The areas of stress distribution and dissipation depend on the skeletal trabecular architecture.
+        </StressDistribution>
+        <InfluencingFactors>
+          Frontal injuries or injuries to the symphysis region are associated with maximum stress being transmitted to the neck of the condyle or the mandibular angle, resulting in fracture of the angle of the mandible bilaterally or of the condylar neck bilaterally. Anatomical factors such as the presence of long roots of teeth and impacted teeth also influence stress concentration.
+        </InfluencingFactors>
+        <IndirectFracture>
+          When stress levels exceed the yield strength/elastic modulus of the bone, an indirect fracture occurs.
+        </IndirectFracture>
+      </Factors>
+    </MandibularFractures>
+  </Introduction>
+  <CaseOverview>
+    <Patient>
+      <Name>John Doe</Name>
+      <Age>27</Age>
+      <Gender>Male</Gender>
+      <History>Known history of seizures under treatment</History>
+      <Allergies>No known allergies</Allergies>
+      <Medications>No current medications</Medications>
+    </Patient>
+    <Presentation>
+      <ChiefComplaint>Pain in left and right lower jaw region for three days</ChiefComplaint>
+      <History>Road traffic accident with frontal impact in the symphysis region</History>
+      <Signs>No signs of head injury, conscious and oriented to time and space</Signs>
+      <EMSTransfer>
+        Transferred by emergency medical services (EMS) for primary care
+      </EMSTransfer>
+    </Presentation>
+    <DiagnosticStudies>
+      <BloodTests>No specific abnormalities noted</BloodTests>
+      <ImagingStudies>
+        <ComputedTomography>
+          <Findings>
+            <BilateralCondyle>Di-capitular</BilateralCondyle>
+            <Symphysis>Impacted oblique fracture with displaced inferior border and left lingual cortical displacement</Symphysis>
+            <IncompleteFracture>Right body of mandible: incomplete fracture along inferior border</IncompleteFracture>
+          </Findings>
+          <AdditionalNotes>
+            Results indicate bilateral dicapitular condyle fracture, impacted fracture of the symphysis with displaced inferior border and left lingual cortical displacement, and an incomplete fracture extending along the inferior border to the right body of the mandible.
+          </AdditionalNotes>
+        </ComputedTomography>
+      </ImagingStudies>
+    </DiagnosticStudies>
+  </CaseOverview>
+  <DiagnosisAndTreatmentPlanning>
+    <Examination>
+      <ClinicalFindings>
+        <GlasgowComaScale>15/15</GlasgowComaScale>
+        <Symptoms>
+          <Laceration>2 cm sutured laceration in the chin region</Laceration>
+          <PreauricularSwelling>Bilateral</PreauricularSwelling>
+          <Trismus>Present</Trismus>
+          <AnteriorOpenBite>Present</AnteriorOpenBite>
+          <StepOffDeformity>Palpable step-off deformity on the left parasymphysis region</StepOffDeformity>
+        </Symptoms>
+      </ClinicalFindings>
+      <Diagnosis>
+        <Fractures>
+          <BilateralCondyle>Di-capitular</BilateralCondyle>
+          <Symphysis>Impacted oblique fracture with displaced inferior border and left lingual cortical displacement</Symphysis>
+          <IncompleteFracture>Right body of mandible: incomplete fracture along inferior border</IncompleteFracture>
+        </Fractures>
+      </Diagnosis>
+    </Examination>
+    <TreatmentPlan>
+      <Treatment>
+        <OpenReductionAndInternalFixation>Symphysis</OpenReductionAndInternalFixation>
+        <ClosedReduction>Bilateral condylar fractures</ClosedReduction>
+      </Treatment>
+      <AnestheticPlan>General anesthesia</AnestheticPlan>
+      <PreOperativePreparation>
+        <FastingInstructions>Nil per os (NPO) for at least 8 hours prior to surgery</FastingInstructions>
+        <Premedication>Antibiotic prophylaxis administered</Premedication>
+      </PreOperativePreparation>
+    </TreatmentPlan>
+  </DiagnosisAndTreatmentPlanning>
+  <Treatment>
+    <ProcedureDetails>
+      <Approach>Chin laceration</Approach>
+      <SymphysisFixation>
+        <Instrumentation>2 mm five-hole plate, 2x8mm screws</Instrumentation>
+        <FixationDetails>Sagitally split lower border with lingual cortical plate extending from right lower molar to left lower canine. Incomplete fracture of buccal cortical plate between central incisors.</FixationDetails>
+      </SymphysisFixation>
+      <CondyleReduction>
+        <Fixation>Maxillomandibular fixation with arch bar at alveolar border as part of tension banding</Fixation>
+        <LingualFractureFixation>2 x 14 mm bicortical screw</LingualFractureFixation>
+      </CondyleReduction>
+    </ProcedureDetails>
+    <PostoperativeCare>
+      <Duration>Two weeks</Duration>
+      <Physiotherapy>Active aggressive physiotherapy</Physiotherapy>
+      <PainManagement>Analgesics prescribed as needed</PainManagement>
+      <WoundCare>Regular wound inspection and oral hygiene maintenance</WoundCare>
+      <ActivityRestrictions>Avoidance of strenuous activities</ActivityRestrictions>
+    </PostoperativeCare>
+  </Treatment>
+  <FollowUp>
+    <Duration>Six months</Duration>
+    <Complications>None</Complications>
+    <PostoperativeOcclusion>Stable</PostoperativeOcclusion>
+    <ScheduledFollowUp>Further follow-up appointments scheduled as needed</ScheduledFollowUp>
+  </FollowUp>
+</EMR>
